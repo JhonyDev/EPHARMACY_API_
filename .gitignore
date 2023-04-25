@@ -135,8 +135,8 @@ dmypy.json
 assets
 assets/
 
-migrations
-migrations/
+#migrations
+#migrations/
 
 media/
 media
